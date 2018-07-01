@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RemindMeLater!</string>
+    <string name="no_cardetails">Klikni na dugme plus za stvaranje novog podsjetnika!</string>
+    <string name="title_activity_add_reminder">Dodaj podsjetnik</string>
+    <string name="title_activity_edit_reminder">Uredi podsjetnik</string>
+    <string name="title_activity_licenses">Licenca</string>
+
+    <string name="add_reminder">Podsjetnik</string>
+    <string name="details">Detalji</string>
+    <string name="date">Datum</string>
+    <string name="time">Vrijeme</string>
+    <string name="repeat">Ponavljanje</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Ponavljanje alarma </string>
+    <string name="repeat_type">Tip ponavljanja alarma</string>
+
+    <string name="action_discard_reminder">Odbaci podsjetnik</string>
+    <string name="action_save_reminder">Spremi podsjetnik</string>
+
+    <string name="editor_activity_title_new_reminder">Dodaj detalje podsjetnika</string>
+    <string name="editor_activity_title_edit_reminder">Uredi podsjetnik</string>
+    <string name="unsaved_changes_dialog_msg">Odbaci promjene i izlazak?</string>
+    <string name="discard">Odbaci</string>
+
+    <string name="keep_editing">Nastavi uredivanje</string>
+    <string name="delete_dialog_msg">Izbrisi podsjetnik?</string>
+
+    <string name="delete">Obrisi</string>
+
+    <string name="cancel">Odustani</string>
+    <string name="editor_delete_reminder_successful">Obrisi podsjetnik</string>
+
+    <string name="editor_delete_reminder_failed">Pogreska pri brisanju podsjetnika</string>
+
+    <string name="editor_insert_reminder_successful">Spremanje podsjetnika</string>
+
+    <string name="editor_insert_reminder_failed">Progreska pri spremanju podsjetnika</string>
+
+    <string name="editor_update_reminder_successful">Anzuriranje podsjetnika</string>
+
+    <string name="editor_update_reminder_failed">Pogreska pri anzuriranju podsjetnika</string>
+
+    <string name="reminder_title">RemindMeLater!</string>
+</resources>
